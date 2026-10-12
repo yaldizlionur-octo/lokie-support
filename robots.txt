@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yaldizlionur-octo.github.io/lokie-support/sitemap.xml
